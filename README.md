@@ -335,8 +335,4 @@ Tenho experiência sólida com monitoramento, segurança e conformidade em ambie
     />
 <br/>
 <br/>
-<p align="left">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=luizinhesta&show_icons=true&theme=tokyonight&count_private=true" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizinhesta&layout=compact&theme=tokyonight" />
-</p>
 
