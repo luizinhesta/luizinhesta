@@ -101,8 +101,6 @@ Tenho experiência sólida com monitoramento, segurança e conformidade em ambie
 
 ---
 ## 📊 Estatísticas
-
-<p align="left">
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -110,11 +108,6 @@ Tenho experiência sólida com monitoramento, segurança e conformidade em ambie
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=luizinhesta&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
-</p>
-
-<p align="left">
-
 <img 
       align="left" 
       alt="GitHub Stats" 
@@ -122,6 +115,8 @@ Tenho experiência sólida com monitoramento, segurança e conformidade em ambie
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizinhesta&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
+<br><br><br><br><br><br><br><br><br>
 
 ---
 ##  🤖 Linguagens e Tecnologias
