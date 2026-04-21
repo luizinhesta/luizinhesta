@@ -60,13 +60,13 @@ Tenho experiência sólida com monitoramento, segurança e conformidade em ambie
 <!-- BEGIN YOUTUBE-CARDS -->
 
 <a href="https://www.youtube.com/watch?v=LAMsVNl4pwg&t=507s">
-  <img src="https://github.com/luizinhesta/luizinhesta/blob/main/images/imagem%20(1).png?raw=true" 
+  <img src="https://raw.githubusercontent.com/luizinhesta/luizinhesta/refs/heads/main/images/imagem(1).png" 
        width="250px" />
 <a href="https://www.youtube.com/watch?v=uBxlQj4nvjg&t=303s">
-  <img src="https://github.com/luizinhesta/luizinhesta/blob/main/images/imagem%20(4).png?raw=true" 
+  <img src="https://raw.githubusercontent.com/luizinhesta/luizinhesta/refs/heads/main/images/imagem(4).png" 
        width="250px" />
 <a href="https://www.youtube.com/watch?v=gBGADjKhYHc&t=634s">
-  <img src="https://github.com/luizinhesta/luizinhesta/blob/main/images/imagem%20(6).png?raw=true" 
+  <img src="https://raw.githubusercontent.com/luizinhesta/luizinhesta/refs/heads/main/images/imagem(6).png" 
        width="250px" />
 <a href="https://www.youtube.com/watch?v=fKFzKyMTMPs">
   <img src="https://github.com/luizinhesta/luizinhesta/blob/main/images/imagem%20(8).png?raw=true" 
