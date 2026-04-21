@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Luiz Inhesta
+﻿# 👨🏻‍💻 Luiz Inhesta
 
 ## **`Cloud & Infrastructure | DevOps | FinOps`**
 
@@ -16,7 +16,7 @@ Tenho experiência sólida com monitoramento, segurança e conformidade em ambie
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     />
   </a>
-  <a href="https://www.youtube.com/@luizinhesa" target="_blank">
+  <a href="https://www.youtube.com/@luizinhesta" target="_blank">
     <img
       alt="YouTube"
       title="Visite meu canal no YouTube"
@@ -27,14 +27,14 @@ Tenho experiência sólida com monitoramento, segurança e conformidade em ambie
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCx7XLrsIsEuJIeGFIh8j2pg?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
     <a href="https://www.youtube.com/@luizinhesta">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCx7XLrsIsEuJIeGFIh8j2pg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
     <a href="https://github.com/luizinhesta?tab=repositories&sort=stargazers">
@@ -48,7 +48,7 @@ Tenho experiência sólida com monitoramento, segurança e conformidade em ambie
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/luizinhesta?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
