@@ -104,6 +104,7 @@ Tenho experiência sólida com monitoramento, segurança e conformidade em ambie
 
 ---
 
+<p>
 ## 🤖 Linguagens e Tecnologias
 
 ### 🌩️ Cloud 
