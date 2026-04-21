@@ -55,15 +55,30 @@ Tenho experiência sólida com monitoramento, segurança e conformidade em ambie
 
 ---
 
-## 📺 Latest YouTube Videos
+## 📺 Últimos Vídeos no YouTube
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Distribuindo site com CloudFront (S3 Privado + OAC) | Projeto AWS 3/1](https://ytcards.demolab.com/?id=ESwH-_xFS_M&title=So+Claude+Code%27s+Source+Code+Was+Just+Leaked...&lang=en&timestamp=1775136630&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1757 "Distribuindo site com CloudFront (S3 Privado + OAC) | Projeto AWS 3/1")]([https://www.youtube.com/watch?v=fKFzKyMTMPs&t=10s))
-[![AI Has Broken the Internet](https://ytcards.demolab.com/?id=44JBZwAsfJI&title=AI+Has+Broken+the+Internet&lang=en&timestamp=1774900800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1037 "AI Has Broken the Internet")](https://www.youtube.com/watch?v=44JBZwAsfJI)
-[![Coding with Opus 4.6 and Codex 5.3 is actually insane](https://ytcards.demolab.com/?id=Q2QmQTNA7vs&title=Coding+with+Opus+4.6+and+Codex+5.3+is+actually+insane&lang=en&timestamp=1770682800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1334 "Coding with Opus 4.6 and Codex 5.3 is actually insane")](https://www.youtube.com/watch?v=Q2QmQTNA7vs)
-[![I Can't Believe Rust is Replacing Java](https://ytcards.demolab.com/?id=-8JOlCvA4Qs&title=I+Can%27t+Believe+Rust+is+Replacing+Java&lang=en&timestamp=1770145201&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=465 "I Can't Believe Rust is Replacing Java")](https://www.youtube.com/watch?v=-8JOlCvA4Qs)
-[![33 CLI Tools You Need to Try](https://ytcards.demolab.com/?id=XhLMS47l8Bw&title=33+CLI+Tools+You+Need+to+Try&lang=en&timestamp=1765822504&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=987 "33 CLI Tools You Need to Try")](https://www.youtube.com/watch?v=XhLMS47l8Bw)
-[![Rust Changed How I Code Forever](https://ytcards.demolab.com/?id=3lvofS5vktc&title=Rust+Changed+How+I+Code+Forever&lang=en&timestamp=1764612900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=906 "Rust Changed How I Code Forever")](https://www.youtube.com/watch?v=3lvofS5vktc)
+
+<a href="https://www.youtube.com/watch?v=LAMsVNl4pwg&t=507s">
+  <img src="https://github.com/luizinhesta/luizinhesta/blob/main/images/imagem%20(1).png?raw=true" 
+       width="250px" />
+<a href="https://www.youtube.com/watch?v=uBxlQj4nvjg&t=303s">
+  <img src="https://github.com/luizinhesta/luizinhesta/blob/main/images/imagem%20(4).png?raw=true" 
+       width="250px" />
+<a href="https://www.youtube.com/watch?v=gBGADjKhYHc&t=634s">
+  <img src="https://github.com/luizinhesta/luizinhesta/blob/main/images/imagem%20(6).png?raw=true" 
+       width="250px" />
+<a href="https://www.youtube.com/watch?v=fKFzKyMTMPs">
+  <img src="https://github.com/luizinhesta/luizinhesta/blob/main/images/imagem%20(8).png?raw=true" 
+       width="250px" />
+<a href="https://www.youtube.com/watch?v=ICa1TEqJT70">
+  <img src="https://github.com/luizinhesta/luizinhesta/blob/main/images/imagem%20(5).png?raw=true" 
+       width="250px" />
+<a href="https://www.youtube.com/watch?v=ZkzzVgJWthw&t=558s">
+  <img src="https://github.com/luizinhesta/luizinhesta/blob/main/images/imagem%20(7).png?raw=true" 
+       width="250px" />
+</a>
+
 <!-- END YOUTUBE-CARDS -->
 
 ---
@@ -87,7 +102,7 @@ Tenho experiência sólida com monitoramento, segurança e conformidade em ambie
 ---
 ## 📊 Estatísticas
 
-<p>
+<p align="left">
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -95,6 +110,10 @@ Tenho experiência sólida com monitoramento, segurança e conformidade em ambie
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=luizinhesta&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
+
+</p>
+
+<p align="left">
 
 <img 
       align="left" 
@@ -104,10 +123,7 @@ Tenho experiência sólida com monitoramento, segurança e conformidade em ambie
   />
 </p>
 
-<br><br><br><br><br><br><br><br><br><br>
-
 ---
-
 ##  🤖 Linguagens e Tecnologias
 
 ### 🌩️ Cloud 
