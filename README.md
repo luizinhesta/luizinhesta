@@ -15,7 +15,6 @@ Tenho experiência sólida com monitoramento, segurança e conformidade em ambie
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     />
   </a>
-</p>
 <p align="left">
   <a href="https://www.youtube.com/@luizinhesa" target="_blank">
     <img
@@ -24,7 +23,6 @@ Tenho experiência sólida com monitoramento, segurança e conformidade em ambie
       src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
     />
   </a>
-</p>
 <p align="left">
     <a href="https://www.youtube.com/@luizinhesta?sub_confirmation=1">
         <img 
