@@ -1,12 +1,13 @@
 # 👨🏻‍💻 Luiz Inhesta
 
-**`Cloud & Infrastructure | DevOps | FinOps`**
+## **`Cloud & Infrastructure | DevOps | FinOps`**
 
 Sou especializado em Infraestrutura, Cloud (AWS, Azure e GCP), DevOps e Segurança. Tenho experiência com ambientes multi-conta, governança, automação em escala e integração entre arquiteturas on-premise, cloud e híbridas.
 
 Atuo como líder em projetos de infraestrutura e cloud, conduzindo iniciativas de modernização, observabilidade, segurança, implementação de pipelines CI/CD e padronização de ambientes corporativos.
 
 Tenho experiência sólida com monitoramento, segurança e conformidade em ambientes Windows, Linux e macOS, além de atuar com gestão de identidades, arquitetura de redes, alta disponibilidade e boas práticas de governança.
+
 <p align="left">
   <a href="https://www.linkedin.com/in/luizinhesta" target="_blank">
     <img
@@ -51,11 +52,13 @@ Tenho experiência sólida com monitoramento, segurança e conformidade em ambie
         />
     </a>
 </p>
+
 ---
-### 📺 Latest YouTube Videos
+
+## 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Distribuindo site com CloudFront (S3 Privado + OAC) | Projeto AWS 3/1](https://ytcards.demolab.com/?id=ESwH-_xFS_M&title=So+Claude+Code%27s+Source+Code+Was+Just+Leaked...&lang=en&timestamp=1775136630&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1757 "Distribuindo site com CloudFront (S3 Privado + OAC) | Projeto AWS 3/1")]([https://www.youtube.com/watch?v=ESwH-_xFS_M](https://youtu.be/fKFzKyMTMPs?si=7-o5abQpMK6_QB9-))
+[![Distribuindo site com CloudFront (S3 Privado + OAC) | Projeto AWS 3/1](https://ytcards.demolab.com/?id=ESwH-_xFS_M&title=So+Claude+Code%27s+Source+Code+Was+Just+Leaked...&lang=en&timestamp=1775136630&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1757 "Distribuindo site com CloudFront (S3 Privado + OAC) | Projeto AWS 3/1")]([https://www.youtube.com/watch?v=fKFzKyMTMPs&t=10s))
 [![AI Has Broken the Internet](https://ytcards.demolab.com/?id=44JBZwAsfJI&title=AI+Has+Broken+the+Internet&lang=en&timestamp=1774900800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1037 "AI Has Broken the Internet")](https://www.youtube.com/watch?v=44JBZwAsfJI)
 [![Coding with Opus 4.6 and Codex 5.3 is actually insane](https://ytcards.demolab.com/?id=Q2QmQTNA7vs&title=Coding+with+Opus+4.6+and+Codex+5.3+is+actually+insane&lang=en&timestamp=1770682800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1334 "Coding with Opus 4.6 and Codex 5.3 is actually insane")](https://www.youtube.com/watch?v=Q2QmQTNA7vs)
 [![I Can't Believe Rust is Replacing Java](https://ytcards.demolab.com/?id=-8JOlCvA4Qs&title=I+Can%27t+Believe+Rust+is+Replacing+Java&lang=en&timestamp=1770145201&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=465 "I Can't Believe Rust is Replacing Java")](https://www.youtube.com/watch?v=-8JOlCvA4Qs)
@@ -64,7 +67,7 @@ Tenho experiência sólida com monitoramento, segurança e conformidade em ambie
 <!-- END YOUTUBE-CARDS -->
 
 ---
-### 🏆 Conquistas & Certificações
+## 🏆 Conquistas & Certificações
 
 [![AWS Cloud Quest - Generative AI Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Quest-Cloud%20IA%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/78f6cfb7-1177-46ca-8df9-e6a9fed16a80/public_url)
 [![AWS Cloud Quest - Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Quest-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/10fdc890-6140-4bbd-912f-134249f0d568/linked_in?t=t5e1bi)
@@ -79,11 +82,10 @@ Tenho experiência sólida com monitoramento, segurança e conformidade em ambie
 ![COBIT 5](https://img.shields.io/badge/COBIT-5%20Foundation-025E8C?style=for-the-badge)
 
 ![Office 365](https://img.shields.io/badge/Microsoft%20365-Administrator-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+</p>
 
-<p>
 ---
-<p>
-### 📊 Estatísticas
+## 📊 Estatísticas
 
 <p>
   <img 
@@ -100,14 +102,14 @@ Tenho experiência sólida com monitoramento, segurança e conformidade em ambie
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizinhesta&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
-<p>
+
+<br><br><br><br><br><br><br><br><br><br>
+
 ---
 
-<p>
 ##  🤖 Linguagens e Tecnologias
-<p>
+
 ### 🌩️ Cloud 
 <img 
     align="left" 
