@@ -79,7 +79,9 @@ Tenho experiência sólida com monitoramento, segurança e conformidade em ambie
 ![COBIT 5](https://img.shields.io/badge/COBIT-5%20Foundation-025E8C?style=for-the-badge)
 
 ![Office 365](https://img.shields.io/badge/Microsoft%20365-Administrator-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
 ---
+
 ### 📊 Estatísticas
 
 <p>
@@ -101,6 +103,7 @@ Tenho experiência sólida com monitoramento, segurança e conformidade em ambie
 </p>
 
 ---
+
 ### 🌩️ Cloud 
 <img 
     align="left" 
