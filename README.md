@@ -80,8 +80,9 @@ Tenho experiência sólida com monitoramento, segurança e conformidade em ambie
 
 ![Office 365](https://img.shields.io/badge/Microsoft%20365-Administrator-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
+<p>
 ---
-
+<p>
 ### 📊 Estatísticas
 
 <p>
@@ -101,12 +102,12 @@ Tenho experiência sólida com monitoramento, segurança e conformidade em ambie
   />
 
 </p>
-
+<p>
 ---
 
 <p>
-## 🤖 Linguagens e Tecnologias
-
+##  🤖 Linguagens e Tecnologias
+<p>
 ### 🌩️ Cloud 
 <img 
     align="left" 
