@@ -8,7 +8,12 @@ Atuo como líder em projetos de infraestrutura e cloud, conduzindo iniciativas d
 
 Tenho experiência sólida com monitoramento, segurança e conformidade em ambientes Windows, Linux e macOS, além de atuar com gestão de identidades, arquitetura de redes, alta disponibilidade e boas práticas de governança.
 
+
+<!-- Redes sociais, AWS Builder Center e GitHub -->
+
 <p align="left">
+
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/luizinhesta" target="_blank">
     <img
       alt="LinkedIn"
@@ -16,6 +21,17 @@ Tenho experiência sólida com monitoramento, segurança e conformidade em ambie
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     />
   </a>
+
+  <!-- AWS Builder Center -->
+  <a href="https://builder.aws.com/community/@luizinhesta?tab=badges" target="_blank">
+    <img
+      alt="AWS Builder Center"
+      title="Conheça meus badges e conquistas na comunidade AWS"
+      src="https://img.shields.io/badge/AWS_Builder-Badges_e_Conquistas-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"
+    />
+  </a>
+
+  <!-- YouTube -->
   <a href="https://www.youtube.com/@luizinhesta" target="_blank">
     <img
       alt="YouTube"
@@ -23,34 +39,43 @@ Tenho experiência sólida com monitoramento, segurança e conformidade em ambie
       src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
     />
   </a>
-    <a href="https://www.youtube.com/@luizinhesta?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCx7XLrsIsEuJIeGFIh8j2pg?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@luizinhesta">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCx7XLrsIsEuJIeGFIh8j2pg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/luizinhesta?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/luizinhesta?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/luizinhesta?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/luizinhesta?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+
+  <!-- Inscritos no YouTube -->
+  <a href="https://www.youtube.com/@luizinhesta?sub_confirmation=1" target="_blank">
+    <img
+      alt="Inscritos no YouTube"
+      title="Inscreva-se no meu canal"
+      src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCx7XLrsIsEuJIeGFIh8j2pg?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+    />
+  </a>
+
+  <!-- Visualizações no YouTube -->
+  <a href="https://www.youtube.com/@luizinhesta" target="_blank">
+    <img
+      alt="Visualizações no YouTube"
+      title="Visualizações do meu canal no YouTube"
+      src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCx7XLrsIsEuJIeGFIh8j2pg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+    />
+  </a>
+
+  <!-- Estrelas no GitHub -->
+  <a href="https://github.com/luizinhesta?tab=repositories&sort=stargazers" target="_blank">
+    <img
+      alt="Estrelas no GitHub"
+      title="Veja meus repositórios no GitHub"
+      src="https://custom-icon-badges.demolab.com/github/stars/luizinhesta?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+    />
+  </a>
+
+  <!-- Seguidores no GitHub -->
+  <a href="https://github.com/luizinhesta?tab=followers" target="_blank">
+    <img
+      alt="Seguidores no GitHub"
+      title="Siga meu perfil no GitHub"
+      src="https://custom-icon-badges.demolab.com/github/followers/luizinhesta?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+    />
+  </a>
+
 </p>
 
 ---
