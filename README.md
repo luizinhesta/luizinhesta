@@ -82,24 +82,46 @@ Tenho experiência sólida com monitoramento, segurança e conformidade em ambie
 <!-- END YOUTUBE-CARDS -->
 
 ---
+
 ## 🏆 Conquistas & Certificações
 
-[![AWS Cloud Quest - Generative AI Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Quest-Cloud%20IA%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/78f6cfb7-1177-46ca-8df9-e6a9fed16a80/public_url)
-[![AWS Cloud Quest - Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Quest-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/10fdc890-6140-4bbd-912f-134249f0d568/linked_in?t=t5e1bi)
-[![AWS Cloud Fundamentals TIDWIT](https://img.shields.io/badge/AWS%20Cloud%20Fundamentals-TIDWIT-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://awstreinabrasil.ontidwit.com/#/badge/bd700ed3-cf5f-4f0c-a584-42dc4a3bd248)
-[![AWS Cloud Fundamentals SMBs TIDWIT](https://img.shields.io/badge/AWS%20Cloud%20Fundamentals-SMBs%20TIDWIT-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://awstreinabrasil.ontidwit.com/#/badge/4de6f310-72e3-43f8-abe6-616ea0ebb2fe)
-[![AWS Academy Graduate - Cloud Foundations - Training Badge](https://img.shields.io/badge/AWS%20Academy%20Graduate-Cloud%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/3d19d815-70c4-4dbe-9144-00e124e61f29/linked_in?t=t6uren)
+### ☁️ AWS — Certificações
 
-[![FinOps – Introduction to FOCUS](https://img.shields.io/badge/FinOps-Introduction%20to%20FOCUS-5A2C83?style=for-the-badge)](https://verify.skilljar.com/c/snyeir8amtou)
-[![FinOps – Introduction](https://img.shields.io/badge/FinOps-Introduction-5A2C83?style=for-the-badge)](https://verify.skilljar.com/c/uio8e6b5nxq2)
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=for-the-badge)]([#](https://www.credly.com/badges/b8b24c9f-3460-4c30-88a6-2bd7d8d97004/public_url))
+[![AWS Cloud Quest - Generative AI Practitioner](https://img.shields.io/badge/AWS_Cloud_Quest-Generative_AI_Practitioner-FF9900?style=for-the-badge)](https://www.credly.com/badges/78f6cfb7-1177-46ca-8df9-e6a9fed16a80/public_url)
+[![AWS Cloud Quest - Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Quest-Cloud_Practitioner-FF9900?style=for-the-badge)](https://www.credly.com/badges/10fdc890-6140-4bbd-912f-134249f0d568/linked_in?t=t5e1bi)
+[![AWS Cloud Quest - Networking](https://img.shields.io/badge/AWS_Cloud_Quest-Networking-FF9900?style=for-the-badge)]([#](https://www.credly.com/badges/c4aaa594-d4c6-489e-a3dd-777aabd1a0b2))
 
-[![Scrum – Fundamentals](https://img.shields.io/badge/Scrum-Fundamentals-2C9AB7?style=for-the-badge&logo=scrumorg&logoColor=white)](https://www.scrumstudy.com/certification/verify?type=SFC&number=1069912)
-![COBIT 5](https://img.shields.io/badge/COBIT-5%20Foundation-025E8C?style=for-the-badge)
+### 🎓 AWS Academy e Treinamentos
 
-![Office 365](https://img.shields.io/badge/Microsoft%20365-Administrator-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-</p>
+[![AWS Academy Cloud Foundations](https://img.shields.io/badge/AWS_Academy-Cloud_Foundations-FF9900?style=for-the-badge)](https://www.credly.com/badges/3d19d815-70c4-4dbe-9144-00e124e61f29/linked_in?t=t6uren)
+![AWS Academy Generative AI Foundations](https://img.shields.io/badge/AWS_Academy-Generative_AI_Foundations-FF9900?style=for-the-badge)
+[![AWS Cloud Fundamentals](https://img.shields.io/badge/AWS_Cloud_Fundamentals-TIDWIT-FF9900?style=for-the-badge)](https://awstreinabrasil.ontidwit.com/#/badge/bd700ed3-cf5f-4f0c-a584-42dc4a3bd248)
+[![AWS Cloud Fundamentals SMBs](https://img.shields.io/badge/AWS_Cloud_Fundamentals-SMBs_TIDWIT-FF9900?style=for-the-badge)](https://awstreinabrasil.ontidwit.com/#/badge/4de6f310-72e3-43f8-abe6-616ea0ebb2fe)
+
+### 🛡️ AWS — Microcredenciais Técnicas
+
+![AWS Incident Response](https://img.shields.io/badge/AWS_Microcredential-Incident_Response-8A2BE2?style=for-the-badge)
+![AWS Application Networking](https://img.shields.io/badge/AWS_Microcredential-Application_Networking-8A2BE2?style=for-the-badge)
+![AWS Serverless](https://img.shields.io/badge/AWS_Microcredential-Serverless-8A2BE2?style=for-the-badge)
+
+### 💰 FinOps
+
+[![FinOps Introduction to FOCUS](https://img.shields.io/badge/FinOps-Introduction_to_FOCUS-5A2C83?style=for-the-badge)](https://verify.skilljar.com/c/snyeir8amtou)
+[![FinOps Introduction](https://img.shields.io/badge/FinOps-Introduction-5A2C83?style=for-the-badge)](https://verify.skilljar.com/c/uio8e6b5nxq2)
+
+### 🐍 Programação
+
+![Cisco Python Essentials 1](https://img.shields.io/badge/Cisco-Python_Essentials_1-049FD9?style=for-the-badge)
+
+### 📋 Governança, Gestão e Administração
+
+[![Scrum Fundamentals](https://img.shields.io/badge/Scrum-Fundamentals-2C9AB7?style=for-the-badge)](https://www.scrumstudy.com/certification/verify?type=SFC&number=1069912)
+![COBIT 5 Foundation](https://img.shields.io/badge/COBIT-5_Foundation-025E8C?style=for-the-badge)
+![Microsoft 365 Administrator](https://img.shields.io/badge/Microsoft_365-Administrator-0078D4?style=for-the-badge)
 
 ---
+
 ## 📊 Estatísticas
   <img 
     align="left" 
